@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "hacking_trading_app",
+    "hacking_trading_domain",
+    "hacking_trading_infra",
+    "hacking_trading_migrations"
+]
